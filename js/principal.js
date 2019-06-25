@@ -1,3 +1,4 @@
+
 var banners = ["Do lixo ao luxo!","Reaproveitar é aproveitar!"];
 
 var bannerAtual = 0;
